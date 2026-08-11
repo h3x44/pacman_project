@@ -68,3 +68,28 @@ Different search algorithms produce different paths and performance characterist
 This project was completed as part of a university course and is provided as a demonstration of my experience with **Artificial Intelligence, search algorithms, and Python programming**.
 
 ![Q1](https://github.com/h3x44/pacman_project/blob/main/Q1.png)
+
+
+![alternative text](path to your gif)
+
+![alternative text](path to your gif)
+
+![alternative text](path to your gif)
+
+![alternative text](path to your gif)
+
+![alternative text](path to your gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
