@@ -73,6 +73,15 @@ This project was completed as part of a university course and is provided as a d
 
 ![Pacman AI Demo](./demo1.gif)
 
+![Pacman AI Demo](./demo2.gif)
+
+![Pacman AI Demo](./demo3.gif)
+
+![Pacman AI Demo](./demo4.gif)
+
+![Pacman AI Demo](./demo5.gif)
+
+
 
 
 
