@@ -70,7 +70,7 @@ This project was completed as part of a university course and is provided as a d
 ![Q1](https://github.com/h3x44/pacman_project/blob/main/Q1.png)
 
 
-![alternative text](path to your gif)
+![alternative text]([path to your gif](https://github.com/h3x44/pacman_project/blob/main/2026-08-11%2013-33-12.gif))
 
 ![alternative text](path to your gif)
 
